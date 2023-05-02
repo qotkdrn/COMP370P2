@@ -1,0 +1,6 @@
+Grading:
+Late Penalty: 3
+Total Deductions: 3
+Final Score: 97
+Comments: 
+  Nice job getting it to work.  Generating all possible subsets of the states of the NFA will get you into trouble in future parrs of the assignment.
